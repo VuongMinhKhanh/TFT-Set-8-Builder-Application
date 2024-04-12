@@ -8,7 +8,8 @@ Simple rules:
   
 Ex: Enter Champion's name: aphelios / aphelIOS / aPHELIOS / Aphelios
 
-- Indexes (for arrays) don't need to minus to 1 (first champ => index 1)
+- Indexes (for arrays): first champ => index 1
+  
 Ex: Your deck: [Ashe, Aphelios, Ashe]
 
 Choose an item: Ace
@@ -19,7 +20,7 @@ Choose a position: 2
 
 => Your deck: [Ashe, Aphelios, Ashe{Ace Emblem}]
 
-- Whenever wanting to change a command or terminate the gamae, just enter "0"
+- Whenever wanting to change a command or terminate a command, just enter "0"
 
 Ex:
 
