@@ -1,6 +1,8 @@
 # TFT-Set-8-Builder-Application
 *** Please test file.exe on eclipse or import the src to eclipse to execute
+
 *** Instruction:
+
 Simple rules:
 - Champions and Items entered can be Upper Case or Lower Case, only correct spelling required
 Ex: Enter Champion's name: aphelios / aphelIOS / aPHELIOS / Aphelios
@@ -20,11 +22,13 @@ Choose an item: 0
 1. Adding a Champion
 - Entering a Champion's name and press, so that Synergies can be built.
 (This demo includes: Aphelios {Asrenal, Sureshot), Samira {Ace, Sureshot}, Ashe{LaserCorps, Recon})
+
 2. Adding an Item
 - Entering an Item
 - Entering a Champion who needs the Item
 - If the Champion in Your Deck has more than 1, enter a position of the Champion
 (This demo includes: Ace Emblem, Infinity Edge)
+
 3. Remove an Item
 - Entering an Item
 - Entering a Champion who needs the Item
