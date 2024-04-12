@@ -5,7 +5,7 @@
 
 Simple rules:
 - Champions and Items entered can be Upper Case or Lower Case, only correct spelling required
-- 
+  
 Ex: Enter Champion's name: aphelios / aphelIOS / aPHELIOS / Aphelios
 
 - Indexes (for arrays) don't need to minus to 1 (first champ => index 1)
